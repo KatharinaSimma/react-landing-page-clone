@@ -15,6 +15,7 @@ root.render(
           font-family: 'Inter', sans-serif;
           -webkit-font-smoothing: antialiased;
           -moz-osx-font-smoothing: grayscale;
+          background-color: #f9fafb;
         }
         *,
         ::after,
